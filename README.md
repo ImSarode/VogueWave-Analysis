@@ -2,7 +2,7 @@
 
 ## Description
 
-The VogueWave Dashboard is a Tableau-based project that visualizes and analyzes supply chain data for a Fashion and Beauty startup. The dataset focuses on makeup products and includes insights into pricing, shipping costs, customer demographics, and supplier performance. The project also involves Excel Solver analysis to minimize transportation costs from source to destination.
+The VogueWave Dashboard is a Tableau-based project that visualizes and analyzes supply chain data for a Fashion and Beauty startup (Kaggle Dataset). The dataset focuses on makeup products and includes insights into pricing, shipping costs, customer demographics, and supplier performance. The project also involves Excel Solver analysis to minimize transportation costs from source to destination.
 
 ## Dataset Features
 The dataset focuses on the supply chain of makeup products and contains the following columns:
@@ -59,4 +59,3 @@ In addition to the Tableau dashboard, Excel Solver was used to optimize transpor
 
 ## Acknowledgments
 - Dataset sourced from Kaggle: https://www.kaggle.com/code/amirmotefaker/supply-chain-analysis
-- Special thanks to the Fashion and Beauty startup for providing the dataset.
